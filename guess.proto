@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package guessgame;
+
+service GuessService {
+  rpc guessNumber (GuessRequest) returns (GuessResponse) {}
+}
+
+message GuessRequest {
+  int32 guess = 1;
+}
+
+message GuessResponse {
+  string message = 1;
+}
+
+message Limits {
+  int32 x = 1; //lower
+  int32 y = 2; //upper
+}
