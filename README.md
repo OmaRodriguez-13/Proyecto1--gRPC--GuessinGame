@@ -23,9 +23,10 @@ git clone https://github.com/OmaRodriguez-13/Proyecto1--gRPC--GuessinGame
 
 ### Requerimientos
 
-#### **Importante: Conexión a la misma red.**
-#### Editor de código (por ejemplo: [Visual Studio Code]
-#### Python 3.11.2
+- Importante: Conexión a la misma red.
+- Desactivar Firewall de Windows para evitar cualquier error de conexión.
+- Editor de código (por ejemplo: [Visual Studio Code]).
+- Python 3.11.2
 
 #### grpcio:
 
