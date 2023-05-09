@@ -16,7 +16,7 @@ Descargar el zip que contiene los archivos fuente del proyecto.
 ### Vía git 
 
 ```bash
-git clone https://github.com/OmaRodriguez-13/Proyecto1--gRPC--GuessinGame
+git clone https://github.com/OmaRodriguez-13/Proyecto1--gRPC--GuessinGame.git
 ```
 
 ## Guía Rápida
