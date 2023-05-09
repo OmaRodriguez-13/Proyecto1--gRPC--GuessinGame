@@ -42,6 +42,12 @@ Para el caso de este proyecto no es necesario utilizar algún comando propio de 
 
 ## Ejecución
 
+Si no conoce su dirección ip de su equipo, puede usar el siguiente comando en cmd.
+
+```bash
+ipconfig
+```
+
 ### Servidor
 
 Abra un terminal y ejecute [server.py] con alguno de los siguiente comandos:
