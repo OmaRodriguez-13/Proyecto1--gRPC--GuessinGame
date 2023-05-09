@@ -25,6 +25,7 @@ git clone https://github.com/OmaRodriguez-13/Proyecto1--gRPC--GuessinGame.git
 
 - Importante: Conexión a la misma red.
 - Desactivar Firewall de Windows para evitar cualquier error de conexión.
+- Tener libre el puerto 50051.
 - Editor de código (por ejemplo: [Visual Studio Code]).
 - Python 3.11.2
 
